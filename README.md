@@ -1,11 +1,11 @@
 # OCR-Devanagari
-# 🧠 OCR for Handwritten Devanagari Script
+# OCR for Handwritten Devanagari Script
 
 A deep learning-based Optical Character Recognition (OCR) system for **handwritten Devanagari text**, built using a **CRNN architecture (CNN + BiLSTM + CTC Loss)**.
 
 ---
 
-## 🚀 Overview
+## Overview
 
 This project presents an end-to-end OCR pipeline specifically designed for handwritten Devanagari script (Hindi, Sanskrit, Marathi, Nepali, etc.).
 
@@ -18,7 +18,7 @@ Unlike generic OCR systems, this model is:
 
 ---
 
-## 📊 Results
+## Results
 
 | Metric | Value |
 |--------|------|
@@ -31,7 +31,7 @@ Best performance was achieved at **Epoch 23**.
 
 ---
 
-## 🎯 Motivation
+## Motivation
 
 - 600M+ people use Devanagari script
 - Large volumes of handwritten documents remain undigitized
