@@ -1,0 +1,48 @@
+Image : E:\Project\OCR_Devnagri\ML project\Custom_input\4.jpg
+Result: मनाया
+----------------------------------------
+Image : E:\Project\OCR_Devnagri\ML project\Custom_input\puje.jpeg
+Result: पूष्य
+----------------------------------------
+Image : E:\Project\OCR_Devnagri\ML project\Custom_input\4.jpg
+Result: मनाया
+----------------------------------------
+Image : E:\Project\OCR_Devnagri\ML project\Custom_input\10.jpeg
+Result: बढता
+----------------------------------------
+Image : E:\Project\OCR_Devnagri\ML project\Custom_input\11.jpeg
+Result: अजनबी
+----------------------------------------
+Image : E:\Project\OCR_Devnagri\ML project\Custom_input\11.jpeg
+Result: अजनबी
+----------------------------------------
+Image : E:\Project\OCR_Devnagri\ML project\Custom_input\11.jpeg
+Result: अजनबी
+----------------------------------------
+Image : E:\Project\OCR_Devnagri\ML project\Custom_input\12.jpg
+Result: कागज़
+----------------------------------------
+Image : E:\Project\OCR_Devnagri\ML project\Custom_input\13.jpg
+Result: हेवेश
+----------------------------------------
+Image : E:\Project\OCR_Devnagri\ML project\Custom_input\13.jpg
+Result: देश
+----------------------------------------
+Image : E:\Project\OCR_Devnagri\ML project\Custom_input\14.jpg
+Result: आाब
+----------------------------------------
+Image : E:\Project\OCR_Devnagri\ML project\Custom_input\12.jpg
+Result: कागज़
+----------------------------------------
+Image : E:\Project\OCR_Devnagri\ML project\Custom_input\14.jpg
+Result: आसुष
+----------------------------------------
+Image : E:\Project\OCR_Devnagri\ML project\Custom_input\12.jpg
+Result: कागज़
+----------------------------------------
+Image : E:\Project\OCR_Devnagri\ML project\Custom_input\20.jpg
+Result: द्ध
+----------------------------------------
+Image : E:\Project\OCR_Devnagri\ML project\Custom_input\21.jpg
+Result: वरद
+----------------------------------------
